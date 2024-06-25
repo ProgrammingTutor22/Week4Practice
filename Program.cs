@@ -12,7 +12,7 @@ namespace Week4Practice
     internal class Program
     {
         static void Main(string[] args)
-        {
+        {   //practicing arrays
             string[] menuOptions = { "Pizza", "Pasta", "Salad", "Drinks" };
 
             int choice;
